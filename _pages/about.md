@@ -34,6 +34,19 @@ My research interest includes multimodal digital human synthesis, motion generat
 
 
 # 📝 Publications 
+%paper1
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/GestureHYDRA_ICCV25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented
+Generation
+
+**Quanwei Yang\***, Luying Huang\*, Kaisiyuan Wang, Jiazhi Guan, Shengyi He, Fengguo Li, Lingyun Yu, Yingying Li,
+Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution) 
+
+[**Project Page**](https://mumuwei.github.io/GestureHYDRA/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/GestureHYDRA_ICCV25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,10 +57,9 @@ Generation
 **Quanwei Yang\***, Luying Huang\*, Kaisiyuan Wang, Jiazhi Guan, Shengyi He, Fengguo Li, Lingyun Yu, Yingying Li,
 Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution) 
 
-[**Project**](https://mumuwei.github.io/GestureHYDRA/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://mumuwei.github.io/GestureHYDRA/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

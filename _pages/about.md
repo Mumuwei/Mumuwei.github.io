@@ -70,6 +70,7 @@ Yingying Fan, **Quanwei Yang**, Kaisiyuan Wang, Hang Zhou, Yingying Li, Haocheng
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2024</div><img src='../images/TALK-Act_SA24.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 

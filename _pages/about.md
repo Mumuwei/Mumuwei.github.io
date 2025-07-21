@@ -91,11 +91,11 @@ Jiazhi Guan, **Quanwei Yang**, Kaisiyuan Wang, Hang Zhou, Shengyi He, Zhiliang X
 
 
 # 🎖 Honors and Awards
-- *2025.07* Baidu Outstanding intern
-- *2022.09* Longhu scholarship of University of Science and Technology of China
-- *2020.07* Outstanding Graduate of Xidian University
-- *2019.08* Meritorious Winner in the Mathematical Contest in Modeling for College students, USA
-- *2018.10* CASC scholarship of China Aerospace Science and Technology Corporation
+- *2025.07*, Baidu Outstanding intern
+- *2022.09*, Longhu scholarship of University of Science and Technology of China
+- *2020.07*, Outstanding Graduate of Xidian University
+- *2019.08*, Meritorious Winner in the Mathematical Contest in Modeling for College students, USA
+- *2018.10*, CASC scholarship of China Aerospace Science and Technology Corporation
 
 # 📖 Educations
 - *2020.09 - 2026.06 (now)*, Ph.D., Information and Communication Engineering, University of Science and Technology of China. 

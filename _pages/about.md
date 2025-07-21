@@ -40,7 +40,8 @@ My research interest includes multimodal digital human synthesis, motion generat
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Quanwei Yang***, Luying Huang*, Kaisiyuan Wang, Jiazhi Guan, Shengyi He, Fengguo Li, Lingyun Yu, Yingying Li,
+Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution) 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,10 +53,10 @@ My research interest includes multimodal digital human synthesis, motion generat
 
 # 🎖 Honors and Awards
 - *2025.07* Baidu Outstanding intern
-- *2022.09* Longhu scholarship of university of science and technology of China
+- *2022.09* Longhu scholarship of University of Science and Technology of China
 - *2020.07* Outstanding Graduate of Xidian University
 - *2019.08* Meritorious Winner in the Mathematical Contest in Modeling for College students, USA
-- *2018.10* CASC scholarship of China aerospace science and technology corporation
+- *2018.10* CASC scholarship of China Aerospace Science and Technology Corporation
 
 # 📖 Educations
 - *2020.09 - 2026.06 (now)*, Ph.D., Information and Communication Engineering, University Of Science And Technology Of China. 

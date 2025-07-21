@@ -34,7 +34,6 @@ My research interest includes multimodal digital human synthesis, motion generat
 
 
 # 📝 Publications 
-%paper1
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/GestureHYDRA_ICCV25.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,7 +46,6 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 </div>
 </div>
 
-%paper2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/showmaker_nips24.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 

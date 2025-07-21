@@ -58,7 +58,7 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 </div>
 
 - [Symmetrical Siamese Network for Pose-Guided Person Synthesis](https://www.sciencedirect.com/science/article/pii/S1077314224002157). **Quanwei Yang**, Lingyun Yu, Fengyuan Liu, Yun Song, Meng Shao, Guoqing Jin, Hongtao Xie. CVIU 2024
-- [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. ACMM 2022
+- [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. ACM MM 2022
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/rehold_cvpr25.jpg' alt="sym" width="95%"></div></div>
@@ -86,7 +86,7 @@ Jiazhi Guan, **Quanwei Yang**, Kaisiyuan Wang, Hang Zhou, Shengyi He, Zhiliang X
 - High Fidelity Face Swapping via Facial Texture and Structure Consistency Mining. Fengyuan Liu, Lingyun Yu, **Quanwei Yang**, Meng Shao, Hongtao Xie. TMM 2024
 - THGS: Lifelike Talking Human Avatar Synthesis from Monocular Video via 3D Gaussian Splatting.Chuang Chen, Lingyun Yu, **Quanwei Yang**, Aihua Zheng, Hongtao Xie. CGF 2025
 - Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts. Mingqi Fang, Ziguang Li, Lingyun Yu, **Quanwei Yang**, Hongtao Xie, Yongdong Zhang. ICCV 2025
-- AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers. Jiazhi Guan, Kaisiyuan Wang, Zhiliang Xu, **Quanwei Yang**, Yasheng SUN, Shengyi He, Borong Liang, Yukang Cao, Yingying Li, Haocheng Feng, Errui Ding, Jingdong Wang, Youjian Zhao, Hang Zhou, Ziwei Liu. CVPR 2025.
+- AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers. Jiazhi Guan, Kaisiyuan Wang, Zhiliang Xu, **Quanwei Yang**, Yasheng SUN, Shengyi He, Borong Liang, Yukang Cao, Yingying Li, Haocheng Feng, Errui Ding, Jingdong Wang, Youjian Zhao, Hang Zhou, Ziwei Liu. CVPR 2025. [**Project Page**](https://guanjz20.github.io/projects/AudCast/)
 - High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement. Fengyuan Liu, Lingyun Yu, Hongtao Xie, Chuanbin Liu, Zhiguo Ding, **Quanwei Yang**, Yongdong Zhang. ACM MM 2023
 
 

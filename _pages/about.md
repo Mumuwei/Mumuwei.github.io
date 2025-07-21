@@ -32,7 +32,7 @@ Before that, I graduated from the School of Artificial Intelligence, Xidian Univ
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/GestureHYDRA_ICCV25.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/GestureHYDRA_ICCV25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation
@@ -44,7 +44,7 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/showmaker_nips24.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/showmaker_nips24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ShowMaker: Creating High-Fidelity 2D Human Video via Fine-Grained Diffusion Modeling](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b0c0b2c2efdd736a53688ebfdc3bcdb-Paper-Conference.pdf)
@@ -59,7 +59,7 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 - [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. ACM MM 2022
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/rehold_cvpr25.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/rehold_cvpr25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model](https://arxiv.org/pdf/2503.16942)
@@ -71,7 +71,7 @@ Yingying Fan, **Quanwei Yang**, Kaisiyuan Wang, Hang Zhou, Yingying Li, Haocheng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2024</div><img src='../images/TALK-Act_SA24.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2024</div><img src='../images/TALK-Act_SA24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model](https://arxiv.org/pdf/2410.10696)

@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a final-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by Prof. Hongtao Xie <a href='https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html'>. 
+I am a final-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by <a href="https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html">Prof. Hongtao Xie</a>. 
 Before that, I graduated from the School of Artificial Intelligence, Xidian University with a bachelor’s degree. 
 
 My research interest includes multimodal digital human synthesis, motion generation, and face-swapping. 
@@ -24,7 +24,14 @@ My research interest includes multimodal digital human synthesis, motion generat
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Two papers is accepted by ICCV 2025.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Two papers is accepted by CVPR 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by Computer Graphics Forum 2025.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by TMM 2024.
+- *2024.08*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by SIGGRAPH Asia 2024.
+
+
 
 # 📝 Publications 
 
@@ -42,17 +49,21 @@ My research interest includes multimodal digital human synthesis, motion generat
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07* Baidu Outstanding intern
+- *2022.09* Longhu scholarship of university of science and technology of China
+- *2020.07* Outstanding Graduate of Xidian University
+- *2019.08* Meritorious Winner in the Mathematical Contest in Modeling for College students, USA
+- *2018.10* CASC scholarship of China aerospace science and technology corporation
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2026.06 (now)*, Ph.D., Information and Communication Engineering, University Of Science And Technology Of China. 
+- *2016.08 - 2020.06*, Bachelor’s degree, Intelligent Science and Technology. Xidian University,
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.11 - now*, VIS, Baidu, China.
+- *2021.10 - 2023.04*, JD Explore Academy, China.
+- *2020.07 - 2021.07*, MMU, Kuaishou, China.
+

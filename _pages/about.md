@@ -58,7 +58,8 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Symmetrical Siamese Network for Pose-Guided Person Synthesis](https://www.sciencedirect.com/science/article/pii/S1077314224002157). **Quanwei Yang**, Lingyun Yu, Fengyuan Liu, Yun Song, Meng Shao, Guoqing Jin, Hongtao Xie. CVIU 2024
+- [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. CVIU 2024
 
 
 # 🎖 Honors and Awards

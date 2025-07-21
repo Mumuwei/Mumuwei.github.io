@@ -59,7 +59,7 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 - [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. ACM MM 2022
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"CVPR 2025</div><img src='../images/rehold_cvpr25.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/rehold_cvpr25.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model](https://arxiv.org/pdf/2503.16942)

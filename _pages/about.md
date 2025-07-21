@@ -48,7 +48,7 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 </div>
 
 %paper2
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/GestureHYDRA_ICCV25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/showmaker_nips24.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ShowMaker: Creating High-Fidelity 2D Human Video via Fine-Grained Diffusion Modeling](https://proceedings.neurips.cc/paper_files/paper/2024/file/5b0c0b2c2efdd736a53688ebfdc3bcdb-Paper-Conference.pdf)
@@ -71,7 +71,7 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 - *2018.10* CASC scholarship of China Aerospace Science and Technology Corporation
 
 # 📖 Educations
-- *2020.09 - 2026.06 (now)*, Ph.D., Information and Communication Engineering, University Of Science And Technology Of China. 
+- *2020.09 - 2026.06 (now)*, Ph.D., Information and Communication Engineering, University of Science and Technology of China. 
 - *2016.08 - 2020.06*, Bachelor’s degree, Intelligent Science and Technology. Xidian University,
 
 

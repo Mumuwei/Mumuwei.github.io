@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am a final-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by <a href="https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html">Prof. Hongtao Xie</a>. 
-Before that, I graduated from the School of Artificial Intelligence, Xidian University with a bachelor’s degree. 
-
-My research interest includes multimodal digital human synthesis, motion generation, and face-swapping. 
+Before that, I graduated from the School of Artificial Intelligence, Xidian University with a bachelor’s degree. My research interest includes multimodal digital human synthesis, motion generation, and face-swapping. 
 
 
 # 🔥 News

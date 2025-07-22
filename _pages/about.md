@@ -55,8 +55,8 @@ Haocheng Feng, Hang Zhou, Hongtao Xie.(*Equal contribution)
 </div>
 </div>
 
-- [Symmetrical Siamese Network for Pose-Guided Person Synthesis](https://www.sciencedirect.com/science/article/pii/S1077314224002157). **Quanwei Yang**, Lingyun Yu, Fengyuan Liu, Yun Song, Meng Shao, Guoqing Jin, Hongtao Xie. CVIU 2024
-- [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. ACM MM 2022
+- [CVIU 2024] [Symmetrical Siamese Network for Pose-Guided Person Synthesis](https://www.sciencedirect.com/science/article/pii/S1077314224002157). **Quanwei Yang**, Lingyun Yu, Fengyuan Liu, Yun Song, Meng Shao, Guoqing Jin, Hongtao Xie. 
+- [ACM MM 2022] [REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer](https://arxiv.org/pdf/2209.00475). **Quanwei Yang**, Xinchen Liu, Wu Liu, HongtaoXie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang. 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/rehold_cvpr25.jpg' alt="sym" width="100%"></div></div>

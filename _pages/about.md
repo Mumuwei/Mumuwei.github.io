@@ -82,11 +82,11 @@ Jiazhi Guan, **Quanwei Yang**, Kaisiyuan Wang, Hang Zhou, Shengyi He, Zhiliang X
 </div>
 </div>
 
-- High Fidelity Face Swapping via Facial Texture and Structure Consistency Mining. Fengyuan Liu, Lingyun Yu, **Quanwei Yang**, Meng Shao, Hongtao Xie. TMM 2024
-- THGS: Lifelike Talking Human Avatar Synthesis from Monocular Video via 3D Gaussian Splatting.Chuang Chen, Lingyun Yu, **Quanwei Yang**, Aihua Zheng, Hongtao Xie. CGF 2025
-- Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts. Mingqi Fang, Ziguang Li, Lingyun Yu, **Quanwei Yang**, Hongtao Xie, Yongdong Zhang. ICCV 2025
-- AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers. Jiazhi Guan, Kaisiyuan Wang, Zhiliang Xu, **Quanwei Yang**, Yasheng SUN, Shengyi He, Borong Liang, Yukang Cao, Yingying Li, Haocheng Feng, Errui Ding, Jingdong Wang, Youjian Zhao, Hang Zhou, Ziwei Liu. CVPR 2025. [**Project Page**](https://guanjz20.github.io/projects/AudCast/)
-- High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement. Fengyuan Liu, Lingyun Yu, Hongtao Xie, Chuanbin Liu, Zhiguo Ding, **Quanwei Yang**, Yongdong Zhang. ACM MM 2023
+- [TMM 2024] High Fidelity Face Swapping via Facial Texture and Structure Consistency Mining. Fengyuan Liu, Lingyun Yu, **Quanwei Yang**, Meng Shao, Hongtao Xie. 
+- [CGF 2025] THGS: Lifelike Talking Human Avatar Synthesis from Monocular Video via 3D Gaussian Splatting.Chuang Chen, Lingyun Yu, **Quanwei Yang**, Aihua Zheng, Hongtao Xie. 
+- [ICCV 2025] Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts. Mingqi Fang, Ziguang Li, Lingyun Yu, **Quanwei Yang**, Hongtao Xie, Yongdong Zhang. 
+- [CVPR 2025] AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers. Jiazhi Guan, Kaisiyuan Wang, Zhiliang Xu, **Quanwei Yang**, Yasheng SUN, Shengyi He, Borong Liang, Yukang Cao, Yingying Li, Haocheng Feng, Errui Ding, Jingdong Wang, Youjian Zhao, Hang Zhou, Ziwei Liu. [**Project Page**](https://guanjz20.github.io/projects/AudCast/)
+- [ACM MM 2023] High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement. Fengyuan Liu, Lingyun Yu, Hongtao Xie, Chuanbin Liu, Zhiguo Ding, **Quanwei Yang**, Yongdong Zhang. 
 
 
 # 🎖 Honors and Awards

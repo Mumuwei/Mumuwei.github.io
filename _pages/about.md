@@ -22,7 +22,7 @@ Before that, I graduated from the School of Artificial Intelligence, Xidian Univ
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Two papers is accepted by ICCV 2025.
-- *2025.06*: &nbsp;🎉🎉 Two papers is accepted by CVPR 2025.
+- *2025.02*: &nbsp;🎉🎉 Two papers is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by Computer Graphics Forum 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by TMM 2024.
